@@ -22,6 +22,17 @@ To learn about RL I greatly recommend the book: Reinforced Learning, an Introduc
 -Press Y to just "win" the game with a pretty dumb but very effective RL Bot that has no reward for getting food.
 
 
+![SnakeR0](/SnakeR0.png)
+
+...
+
+![SnakeR1](/SnakeR1.png)
+
+...
+
+![SnakeR2](/SnakeR2.png)
+
+
 
 
 
